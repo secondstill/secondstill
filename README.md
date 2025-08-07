@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Bala Murali Gautham
-- 👀 I’m interested in Data Visualization and Cloud Computing
-- 🌱 I’m currently learning Web Development, CyberSecurity
+- 👀 I’m interested in Data Visualization and AI
+- 🌱 I’m currently working with STT Engines, OCR and Agentic AI with MCP Servers
 - 💞️ I’m looking to collaborate on anything tbh. I need to learn the ways of this world *smh*
-- 📫 How to reach me 22ad034@mgits.ac.in
+- 📫 How to reach me gauthambalamurali@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I got so many interests and skills I wish to persue but I only got 24 hrs a day. pity :/
 
